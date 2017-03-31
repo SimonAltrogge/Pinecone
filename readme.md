@@ -12,7 +12,7 @@ __For updates, discussion and help, take a look at the Pinecone subreddit: [/r/P
 Pinecone is a brand new, easy to learn, general purpose, multi-paradigm, high performance programming language created by William W Wold. Work on the language began on October 4th, 2016. Pinecone can now be interpreted or transpiled to C++. The language is written from scratch (it includes an integrated lexer, parser and interpreter, etc.).
 
 ## Why?
-This is probably the most common reaction to hearing about a new language. I realize that there are a __lot__ of programming languages, and that the reason for that is that there are so many assholes like me who keep making them. I do truly think, though, that Pinecoe fills a previously empty niche.
+This is probably the most common reaction to hearing about a new language. I realize that there are a __lot__ of programming languages, and that the reason for that is that there are so many assholes like me who keep making them. I do truly think, though, that Pinecone fills a previously empty niche.
 
 Pinecone aims to have similar capabilities to modern object oriented compiled languages such as C++, Swift and Rust. It's primary attraction is the simplicity and consistency of it's syntax. Here are some examples of how Pinecone is different from other popular languages:
 
